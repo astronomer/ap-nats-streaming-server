@@ -1,8 +1,8 @@
 module github.com/nats-io/nats-streaming-server
 
-go 1.23.0
+go 1.24.0
 
-toolchain go1.24.1
+toolchain go1.24.11
 
 require (
 	github.com/go-sql-driver/mysql v1.7.1
